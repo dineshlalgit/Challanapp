@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <AmplifySignOut />
       <h1>Challan Wala</h1>
-      <p>sourab ka gand</p>
+      <p>sourab ka g</p>
       <Map />
     </div>
   );
