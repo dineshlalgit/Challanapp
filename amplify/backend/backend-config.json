@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"challanwala3a48f4d6": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

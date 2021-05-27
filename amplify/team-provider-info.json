@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-challanwala-dev-182453-authRole",
+            "UnauthRoleArn": "arn:aws:iam::121996576819:role/amplify-challanwala-dev-182453-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::121996576819:role/amplify-challanwala-dev-182453-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-challanwala-dev-182453-deployment",
+            "UnauthRoleName": "amplify-challanwala-dev-182453-unauthRole",
+            "StackName": "amplify-challanwala-dev-182453",
+            "StackId": "arn:aws:cloudformation:ap-south-1:121996576819:stack/amplify-challanwala-dev-182453/c5d298b0-beea-11eb-b7f9-0281e5541e72",
+            "AmplifyAppId": "d2vtrqi2z9dqg"
+        },
+        "categories": {
+            "auth": {
+                "challanwala3a48f4d6": {}
+            }
+        }
+    }
+}
